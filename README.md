@@ -12,4 +12,4 @@ My steps to completing lab 06
 - lastly inside my main file called Program I just declared some strings with information that I could pass into my new Animals instance that passes down through my classes and return information to my console.
 
 UML DRAWING
-![Drawing](vscode-remote://wsl%2Bubuntu/home/curtrick/code_401/Labs/Lab_06-07/PXL_20221012_040231064.jpg)
+![](vscode-remote://wsl%2Bubuntu/home/curtrick/code_401/Labs/Lab_06-07/UML.jpg)

@@ -1,0 +1,15 @@
+/home/curtrick/code_401/Labs/Lab_06-07/Zoo/Zoo/obj/Debug/net6.0/Zoo.csproj.AssemblyReference.cache
+/home/curtrick/code_401/Labs/Lab_06-07/Zoo/Zoo/obj/Debug/net6.0/Zoo.GeneratedMSBuildEditorConfig.editorconfig
+/home/curtrick/code_401/Labs/Lab_06-07/Zoo/Zoo/obj/Debug/net6.0/Zoo.AssemblyInfoInputs.cache
+/home/curtrick/code_401/Labs/Lab_06-07/Zoo/Zoo/obj/Debug/net6.0/Zoo.AssemblyInfo.cs
+/home/curtrick/code_401/Labs/Lab_06-07/Zoo/Zoo/obj/Debug/net6.0/Zoo.csproj.CoreCompileInputs.cache
+/home/curtrick/code_401/Labs/Lab_06-07/Zoo/Zoo/bin/Debug/net6.0/Zoo
+/home/curtrick/code_401/Labs/Lab_06-07/Zoo/Zoo/bin/Debug/net6.0/Zoo.deps.json
+/home/curtrick/code_401/Labs/Lab_06-07/Zoo/Zoo/bin/Debug/net6.0/Zoo.runtimeconfig.json
+/home/curtrick/code_401/Labs/Lab_06-07/Zoo/Zoo/bin/Debug/net6.0/Zoo.dll
+/home/curtrick/code_401/Labs/Lab_06-07/Zoo/Zoo/bin/Debug/net6.0/Zoo.pdb
+/home/curtrick/code_401/Labs/Lab_06-07/Zoo/Zoo/obj/Debug/net6.0/Zoo.dll
+/home/curtrick/code_401/Labs/Lab_06-07/Zoo/Zoo/obj/Debug/net6.0/refint/Zoo.dll
+/home/curtrick/code_401/Labs/Lab_06-07/Zoo/Zoo/obj/Debug/net6.0/Zoo.pdb
+/home/curtrick/code_401/Labs/Lab_06-07/Zoo/Zoo/obj/Debug/net6.0/Zoo.genruntimeconfig.cache
+/home/curtrick/code_401/Labs/Lab_06-07/Zoo/Zoo/obj/Debug/net6.0/ref/Zoo.dll

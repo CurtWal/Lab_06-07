@@ -1,18 +1,34 @@
+using Zoo.Interface;
+
 namespace Zoo.Classes
 {
-    class Horse : Herbivores
+    class Horse : Herbivores, IisAnimal
     {
+        public string isAnAnimal { get; set; }
         public override string Name { get; set; }
         public override string Food { get; set; }
         public override string Sleep { get; set; }
         public override string Sound { get; set; }
         public override bool lovesPlants { get; set; } = true;
-        public Horse(string name, string food, string sleep, string sound)
+        public Horse(string name, string food, string sleep, string sound, string animal)
         {
             Name = name;
             Food = food;
             Sleep = sleep;
             Sound = sound;
+            isAnAnimal = animal;
+        }
+        public string Type(IAnimals animal)
+        {
+            animal.IsBeautiful();
+            animal.Speed();
+            animal.AnimalType();
+            animal.IsFriendly();
+            return "I am an animal";
+        }
+        public string AdjustSettings()
+        {
+            return "All my settings are adjusted";
         }
         public override void AnimalSound()
         {
@@ -39,19 +55,33 @@ namespace Zoo.Classes
         }
 
     }
-    class Sheep : Herbivores
+    class Sheep : Herbivores, IisAnimal
     {
+        public string isAnAnimal { get; set; }
         public override string Name { get; set; }
         public override string Food { get; set; }
         public override string Sleep { get; set; }
         public override string Sound { get; set; }
         public override bool lovesPlants { get; set; } = true;
-        public Sheep(string name, string food, string sleep, string sound)
+        public Sheep(string name, string food, string sleep, string sound, string animal)
         {
             Name = name;
             Food = food;
             Sleep = sleep;
             Sound = sound;
+            isAnAnimal = animal;
+        }
+        public string Type(IAnimals animal)
+        {
+            animal.IsBeautiful();
+            animal.Speed();
+            animal.AnimalType();
+            animal.IsFriendly();
+            return "I am an animal";
+        }
+        public string AdjustSettings()
+        {
+            return "All my settings are adjusted";
         }
         public override void AnimalSound()
         {
@@ -78,19 +108,33 @@ namespace Zoo.Classes
         }
 
     }
-    class Cow : Herbivores
+    class Cow : Herbivores, IisAnimal
     {
+        public string isAnAnimal { get; set; }
         public override string Name { get; set; }
         public override string Food { get; set; }
         public override string Sleep { get; set; }
         public override string Sound { get; set; }
         public override bool lovesPlants { get; set; } = true;
-        public Cow(string name, string food, string sleep, string sound)
+        public Cow(string name, string food, string sleep, string sound, string animal)
         {
             Name = name;
             Food = food;
             Sleep = sleep;
             Sound = sound;
+            isAnAnimal = animal;
+        }
+        public string Type(IAnimals animal)
+        {
+            animal.IsBeautiful();
+            animal.Speed();
+            animal.AnimalType();
+            animal.IsFriendly();
+            return "I am an animal";
+        }
+        public string AdjustSettings()
+        {
+            return "All my settings are adjusted";
         }
         public override void AnimalSound()
         {

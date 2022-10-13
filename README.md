@@ -13,3 +13,17 @@ My steps to completing lab 06
 
 UML DRAWING
 ![](vscode-remote://wsl%2Bubuntu/home/curtrick/code_401/Labs/Lab_06-07/UML.jpg)
+
+
+Lab_07
+
+My step to complete lab 7 
+I made 2 basic interfaces, 1 named IisAnimals with just a basic string in it and the other named IAnimals with 4 methods called IsBeautiful, AnimalType, IsFriendly, and Speed.
+
+I extended the IisAnimals string interface to the Predators and Herbivorers class.
+Inside the Predators and Herbivores class I take the string from the interface adn set it to true while also using the methods from the IisAnimal interface from the CowHorseSheep and LionWhale class.
+
+lastly inside the program file I take the declared string name from the CowHorseSheep and LionWhale classes and made a new method call for all the animal and just passed in just a random string for them
+
+UML DRAWING
+![](vscode-remote://wsl%2Bubuntu/home/curtrick/code_401/Labs/Lab_06-07/UML%282%29.jpg)
